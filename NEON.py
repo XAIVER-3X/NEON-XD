@@ -1,2 +1,2 @@
-from AWM import Main
-Main.Menu()
+from x64 import Approval
+Approval.urlaccess()
